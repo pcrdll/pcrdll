@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pcrdll&show_icons=true&theme=tokyonight)
 
 
-![pcrdll's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcrdll&show_icons=true)
+![pcrdll's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcrdll&show_icons=true&theme=tokyonight)
