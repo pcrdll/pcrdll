@@ -1,12 +1,80 @@
-### Hi there 👋
+### Hey 👋, I'm Pablo
 
-<!--
-**pcrdll/pcrdll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/github/followers/pcrdll?label=Follow&style=social)](https://github.com/pcrdll)
 
-![pcrdll's GitHub stats](https://github-readme-stats.vercel.app/api?username=pcrdll&show_icons=true&theme=tokyonight&count_private=true)
+I'm a Robotics passionate about solving complicated problems and creating software solutions :robot:. I :heart: Open Source and therefore enjoy working on interesting open source projects.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcrdll&theme=tokyonight&count_private=true&langs_count=8)](https://github.com/pcrdll/github-readme-stats)
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-pcrdll.vercel.app/api/top-langs/?username=pcrdll&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-pcrdll.vercel.app/api?username=pcrdll&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
-[![pcrdll's github stats](https://github-readme-stats.vercel.app/api?username=pcrdll&count_private=true)](https://github.com/pcrdll/github-readme-stats)
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-pcrdll.vercel.app/api/top-langs/?username=pcrdll&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-pcrdll.vercel.app/api?username=pcrdll&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
-[![pcrdll's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pcrdll&count_private=true)](https://github.com/pcrdll/github-readme-stats)
+<br/>
+
+<!-- Social button 1 -->
+<!-- Light Mode -->
+<div>
+<a href="https://discord.gg/HXmCeSH8jr#gh-light-mode-only">
+<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
+</a>
+<!-- Dark Mode -->
+<a href="https://discord.gg/HXmCeSH8jr#gh-dark-mode-only">
+<img src="https://img.shields.io/discord/700321498023329813?style=for-the-badge&logo=discord&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
+</a>
+&nbsp;
+<!-- Social button 2 -->
+<!-- Light Mode -->
+<a href="https://t.me/pcrdll#gh-light-mode-only">
+<img src="https://img.shields.io/badge/message-%40pcrdll-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=3572A5#gh-light-mode-only" alt="Ask me anything">
+</a>
+<!-- Dark Mode -->
+<a href="https://t.me/pcrdll#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/message-%40pcrdll-1DA1F2?style=for-the-badge&logo=telegram&labelColor=000&color=FFF#gh-dark-mode-only" alt="Ask me anything">
+</a>
+&nbsp;
+<!-- Social button 3 -->
+<!-- Light Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-light-mode-only">
+<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on twitter" >
+</a>
+<!-- Dark Mode -->
+<a href="https://twitter.com/intent/follow?screen_name=rick_staa#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/follow-%40rick_staa-1DA1F2?style=for-the-badge&logo=twitter&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on twitter" >
+</a>
+&nbsp;
+<!-- Social button 4 -->
+<!-- Light Mode -->
+<a href="https://bsky.app/profile/pcrdll.bsky.social#gh-light-mode-only">
+<img src="https://img.shields.io/badge/follow-%40pcrdll.bsky.social-1DA1F2?style=for-the-badge&logo=hackthebox&logoColor=0063FF&labelColor=000&color=3572A5#gh-light-mode-only" alt="Follow me on Bsky.app" >
+</a>
+<!-- Dark Mode -->
+<a href="https://bsky.app/profile/pcrdll.bsky.social#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/follow-%40pcrdll.bsky.social-1DA1F2?style=for-the-badge&logo=hackthebox&logoColor=0063FF&labelColor=000&color=FFF#gh-dark-mode-only" alt="Follow me on Bsky.app" >
+</a>
+&nbsp;
+<!-- Social button 5 -->
+<!-- Light Mode -->
+<a href="https://www.linkedin.com/in/pcrdll#gh-light-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+</a>
+<!-- Dark Mode -->
+<a href="https://www.linkedin.com/in/pcrdll#gh-dark-mode-only">
+<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
+</a>
+
+</div>
